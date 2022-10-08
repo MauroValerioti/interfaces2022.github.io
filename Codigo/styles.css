@@ -1,3 +1,102 @@
 body{
     background-color:#050231;
 }
+
+header{
+    display: block;
+}
+.sub-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.logo{
+    width: 100%;
+    height: 0%;
+    margin: 0%;
+    padding: 0%;
+}
+
+.cont-logo{
+    max-width: 20%;
+    margin: 0%;
+    padding: 0%;
+}
+
+.cont-titulo{
+    max-width: 60%;
+    margin: 0%;
+    padding: 0%;
+}
+.titulo{
+    background-image: linear-gradient(0deg, blue 50%, yellow 50%);
+    display: inline-block;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.logoYTitulo{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    max-width: 30%;
+}
+
+.barraBuscador{
+    max-width: 50%;
+    height: 20%;
+    margin: 5px;
+}
+
+.barrita{
+    height: 8vh;
+}
+
+.menuHamburguesa{
+    height: 5%;
+    width: 5%;
+    margin: 1rem;
+}
+
+.texto-breadcrumbs{
+    color:blueviolet;
+    padding-top: 0%;
+    padding-left: 15%;
+    margin: 0%;
+}
+
+span{
+    color: blue;
+}
+
+nav{
+    background-color:#BC4DFE;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.categoriasJuegos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 20vh;
+    height: 14vh;
+    margin: 1vh;
+    background-color: #050231;
+}
