@@ -91,33 +91,80 @@ nav{
     justify-content: space-evenly;
 }
 
+/*ESTA ES LA SECCION DEL CARRUSEL*/
+
 .textoCategoria{
     color: white;
-}
-
-main{
-    
-}
-
-.seccionCategoria{
-    width: 100%;
     background-color: #050231;
 }
 
+.carrusel{
+    display: flex;
+    width: 100%;
+    height: 40vh;
+    overflow-x:scroll;
+}
 
+.objetoCarrusel{
+    flex: 0 0 100%;
+    width: 100%;
+    object-fit:cover;
+    scroll-snap-align:center;  
+}
 
+.cont-tarjeta{
+    margin-left: 1%;
+    text-align: center;
+    background-color: #050231;
+    width: 20%;
+    height: 100%;
+}
 
+.cont-imagen-tarjeta{
+    width: 100%;
+    height: 40%;
+}
+
+.cont-titulo-tarjeta{
+    color: white;
+    height: 10%;
+}
+
+.cont-adicionales-tarjeta{
+    height: 20%;
+}
+
+.cont-botones-tarjeta{
+    height: auto;
+}
+
+.gratis{
+    color: rgb(0, 255, 0)
+}
+
+.botonJugar{
+    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #159900; /*color botón*/
+    color: black; /*color texto*/
+    font-size: 2vh;
+    text-decoration: none; /*decoración texto*/
+    border-radius: 10px; /*bordes redondos*/
+    }
+
+/*ESTA ES LA SECCION DEL CARRUSEL*/
 
 .categoriasJuegos{
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
-    width: 12em;
-    height: 10em;
-    margin: 1vh;
+    width: 15vw;
+    height: 15vh;
+    margin: 1%;
     background-color: #050231;
 }
+
 
 footer{
     background-color: #050231;
@@ -146,3 +193,4 @@ footer{
     width: 40%;
     align-items:baseline;
 }
+
