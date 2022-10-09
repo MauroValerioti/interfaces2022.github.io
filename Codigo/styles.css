@@ -152,6 +152,25 @@ nav{
     border-radius: 10px; /*bordes redondos*/
     }
 
+.botonComprar{
+    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #650404; /*color botón*/
+    color: black; /*color texto*/
+    font-size: 2vh;
+    text-decoration: none; /*decoración texto*/
+    border-radius: 10px; /*bordes redondos*/
+    }
+
+.botonCarrito{
+    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #8d9f00; /*color botón*/
+    color: black; /*color texto*/
+    font-size: 2vh;
+    text-decoration: none; /*decoración texto*/
+    border-radius: 10px; /*bordes redondos*/
+    }
 /*ESTA ES LA SECCION DEL CARRUSEL*/
 
 .categoriasJuegos{
