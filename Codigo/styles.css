@@ -168,6 +168,18 @@ h3{
     color: #005aea;
 }
 
+.categoriasJuegos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 15vw;
+    height: 15vh;
+    margin: 1%;
+    background-color: #050231;
+}
+
+/*------------------------------BOTONES CSS---------------*/
 .botonJugar{
     border: 1px solid #2e518b; /*anchura, estilo y color borde*/
     padding: 5%; /*espacio alrededor texto*/
@@ -203,16 +215,6 @@ h3{
     height: auto;
 }
 
-.categoriasJuegos{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    width: 15vw;
-    height: 15vh;
-    margin: 1%;
-    background-color: #050231;
-}
 
 /*-----------------------------FOOTER CSS--------------------->*/
 footer{
@@ -301,7 +303,6 @@ footer{
     height: 100%;
 }
 
-
 .boton-4enlinea{
     border: black solid 1px;
     padding: 2%; /*espacio alrededor texto*/
@@ -310,4 +311,63 @@ footer{
     font-size: 4vh;
     text-decoration: none; /*decoración texto*/
     border-radius: 10px; /*bordes redondos*/
+}
+
+/*--------------SECCION HISTORIA CSS--------------------*/
+.seccionHistoria{
+    background-color: #050231;
+    height: auto;
+    padding: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+/*--------------SECCION COMENTAR CSS--------------------*/
+.seccionComentar{
+    background-color: #050231;
+    padding: 1%;
+    margin-bottom: 1%;
+    height: auto;
+}
+
+.iconos-redes-comentar{
+    display: flex;
+}
+
+.cont-icono-comentar{
+    min-width: 5%;
+    max-width: 5%;
+
+}
+
+.caja-y-boton{
+    display: flex;
+    align-items: center;
+}
+
+.caja-de-comentarios{
+    width: 30%;
+    height: 10%;
+}
+
+.botonEnviar{
+    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    padding: 40%;
+    background-color: blue; /*color botón*/
+    color: black; /*color texto*/
+    font-size: 2vh;
+    text-decoration: none; /*decoración texto*/
+    border-radius: 10px; /*bordes redondos*/
+    
+}
+
+/*--------------SECCION COMENTARIOS CSS--------------------*/
+.seccionComentarios{
+    background-color: #050231;
+    display: block;
+}
+
+.comentario-image{
+    width: 60%;
+    margin: 1%;
 }
