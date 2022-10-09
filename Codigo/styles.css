@@ -1,8 +1,9 @@
 body{
-    background-color:#050231;
+    background-color:#9747FF;
 }
 
 header{
+    background-color: #050231;
     display: block;
 }
 .sub-header{
@@ -90,13 +91,58 @@ nav{
     justify-content: space-evenly;
 }
 
+.textoCategoria{
+    color: white;
+}
+
+main{
+    
+}
+
+.seccionCategoria{
+    width: 100%;
+    background-color: #050231;
+}
+
+
+
+
+
 .categoriasJuegos{
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
-    width: 20vh;
-    height: 14vh;
+    width: 12em;
+    height: 10em;
     margin: 1vh;
     background-color: #050231;
+}
+
+footer{
+    background-color: #050231;
+    
+    max-height: 20%;
+}
+
+.elementosFooter{
+    display: block;
+    justify-content: space-between;
+    color: white;
+}
+.cont-footer{
+    background-color: black;
+    height: auto;
+    
+    text-align: start;
+    width: 20%;
+    float:left;
+    margin: 10px;
+    padding: 1%;
+}
+
+.logo-footer{
+    display:-webkit-inline-flex;
+    width: 40%;
+    align-items:baseline;
 }
