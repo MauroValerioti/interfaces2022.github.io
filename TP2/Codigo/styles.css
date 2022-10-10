@@ -188,7 +188,7 @@ h3{
 
 /*------------------------------BOTONES CSS---------------*/
 .botonJugar{
-    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    
     padding: 5%; /*espacio alrededor texto*/
     background-color: #159900; /*color botón*/
     color: black; /*color texto*/
@@ -201,7 +201,7 @@ h3{
 }
 
 .botonReservar{
-    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    
     padding: 1%; /*espacio alrededor texto*/
     background-color: #159900; /*color botón*/
     color: black; /*color texto*/
@@ -213,7 +213,7 @@ h3{
 }
 
 .botonComprar{
-    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    
     padding: 5%; /*espacio alrededor texto*/
     background-color: #2a9a05; /*color botón*/
     color: black; /*color texto*/
@@ -226,7 +226,7 @@ h3{
 }
 
 .botonCarrito{
-    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    
     padding: 1vw; /*espacio alrededor texto*/
     background-color: #8d9f00; /*color botón*/
     color: black; /*color texto*/
@@ -557,4 +557,44 @@ footer{
 
 @media (max-width: 600px){
     
+    .seccionCategoria{
+        margin-bottom: 1vh;
+    }
+    
+    .categoriasJuegos{
+        width: 14vw;
+        height: 8vh;
+    }
+
+    .cont-tarjeta{
+        
+    }
+    
+    .carrusel{
+        height: 15%;
+    }
+
+    .cont-titulo-tarjeta{
+        font-size: 2vw;
+    }
+
+    .cont-footer{
+        width: 14vw;
+    }
+
+    .botonJugar{
+        height: 30%;
+        width: 40%;
+    }
+
+    .botonComprar{
+        height: 30%;
+        width: 40%;
+    }
+
+    .botonCarrito{
+        
+        height: 30%;
+        width: 40%;
+    }
 }
