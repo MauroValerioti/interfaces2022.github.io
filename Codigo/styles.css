@@ -194,7 +194,7 @@ h3{
 .botonComprar{
     border: 1px solid #2e518b; /*anchura, estilo y color borde*/
     padding: 10px; /*espacio alrededor texto*/
-    background-color: #650404; /*color botón*/
+    background-color: #2a9a05; /*color botón*/
     color: black; /*color texto*/
     font-size: 2vh;
     text-decoration: none; /*decoración texto*/
@@ -215,6 +215,16 @@ h3{
     height: auto;
 }
 
+.botonEnviar{
+    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    padding: 40%;
+    background-color: blue; /*color botón*/
+    color: black; /*color texto*/
+    font-size: 2vh;
+    text-decoration: none; /*decoración texto*/
+    border-radius: 10px; /*bordes redondos*/
+    
+}
 
 /*-----------------------------FOOTER CSS--------------------->*/
 footer{
@@ -350,24 +360,17 @@ footer{
     height: 10%;
 }
 
-.botonEnviar{
-    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
-    padding: 40%;
-    background-color: blue; /*color botón*/
-    color: black; /*color texto*/
-    font-size: 2vh;
-    text-decoration: none; /*decoración texto*/
-    border-radius: 10px; /*bordes redondos*/
-    
-}
 
 /*--------------SECCION COMENTARIOS CSS--------------------*/
 .seccionComentarios{
     background-color: #050231;
     display: block;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 .comentario-image{
+    padding: 1%;
     width: 60%;
-    margin: 1%;
+    
 }
