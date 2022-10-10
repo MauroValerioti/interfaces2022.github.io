@@ -1,0 +1,130 @@
+[33mcommit 852dcac77eaec581d22d07c2bafe6f8189cfc933[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ec99ea4 c3f81d9
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Mon Oct 10 10:47:18 2022 -0300
+
+    asd
+
+[33mcommit ec99ea4084815d7d5b611fc8eb23c725981d2235[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Mon Oct 10 10:41:24 2022 -0300
+
+    detalles
+
+[33mcommit c3f81d9f1c2577d775f69446207fb61150877554[m
+Author: coki0291 <slherrera91@gmail.com>
+Date:   Sun Oct 9 22:37:09 2022 -0300
+
+    lanzamiento
+    
+    pag lanzamiento y estilos
+
+[33mcommit 6a25e2e24e2bbd53184676a3292c79884fde36c3[m
+Author: coki0291 <slherrera91@gmail.com>
+Date:   Sun Oct 9 22:22:23 2022 -0300
+
+    lanzamiento
+    
+    página de lanzamiento
+
+[33mcommit a33a15de270c80896f4a1a19f4119e00eab7e05e[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Sun Oct 9 19:40:35 2022 -0300
+
+    terminada la seccion de comentarios de la pagian 2
+
+[33mcommit 8fa50008c8f8b8a105bf1928028b83b69f7b4286[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Sun Oct 9 18:11:08 2022 -0300
+
+    se agregaron imagenes al repo
+
+[33mcommit 3f67db1c25f8f8d7dc1756152a13b7b766494d02[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Sun Oct 9 17:21:51 2022 -0300
+
+    pagina 2 en progreso
+
+[33mcommit 5a17e61632f667b42950eee1950a420426fd3d74[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Sun Oct 9 13:46:14 2022 -0300
+
+    terminada la pagina 1
+
+[33mcommit 1da839c8c20667753e746c65f372d411142943f3[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Sun Oct 9 12:51:56 2022 -0300
+
+    probando terminar VSC
+
+[33mcommit c0c2f683eaf9286216925fd502a4d67c8af884a0[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Sun Oct 9 12:40:10 2022 -0300
+
+    fin de pagina 1 - home
+
+[33mcommit 7a353a60e3647f8643bafc7338e0162bd0ba644b[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Sun Oct 9 01:17:50 2022 -0300
+
+    se agrego footer y detalles
+
+[33mcommit fdda0b6ab5c18fbefd5e18b27ffd97e6fc1d4d52[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Sat Oct 8 17:35:56 2022 -0300
+
+    se agregaron header y nav
+
+[33mcommit b2ad2ff27f1781373822015d9873f9a390c46d65[m
+Author: Mauro Valerioti <mauro.valerioti.18@gmial.com>
+Date:   Fri Oct 7 13:22:17 2022 -0300
+
+    prueba
+
+[33mcommit 3d27a466293ff6b86f59091c4ea89c40a0b74928[m
+Author: Mauro <mauro.valerioti.18@gmail.com>
+Date:   Fri Oct 7 13:17:51 2022 -0300
+
+    Rename index.html to Figma/index.html
+
+[33mcommit d297ac308e8bf9b5841fadfd461856d70e7f7b05[m
+Author: Mauro <mauro.valerioti.18@gmail.com>
+Date:   Fri Oct 7 13:16:29 2022 -0300
+
+    creo carpeta para guardar archivos de Figma
+
+[33mcommit 8095ca71baa50862c43f95bc065153382135e50e[m
+Author: Mauro <mauro.valerioti.18@gmail.com>
+Date:   Fri Oct 7 13:14:47 2022 -0300
+
+    se agregan los archivo de la pagina en codigo
+
+[33mcommit 0122f53f8f0be5e57788f5953d7bc92803eff362[m
+Author: Mauro <mauro.valerioti.18@gmail.com>
+Date:   Fri Oct 7 13:13:49 2022 -0300
+
+    se agrega una carpeta para el codigo
+
+[33mcommit 2469d3f168052935835d88128ed5fb5000b8cefd[m
+Author: Silvina Herrera <87776699+coki0291@users.noreply.github.com>
+Date:   Tue Sep 20 10:05:48 2022 -0300
+
+    Github Pages
+
+[33mcommit 69b3300d351816769a1eb4b800a7808455779a3d[m
+Author: Silvina Herrera <87776699+coki0291@users.noreply.github.com>
+Date:   Tue Sep 20 07:28:18 2022 -0300
+
+    Integrantes
+
+[33mcommit 268ad45ed071a2f86a8c910a6de76dc43babe2d0[m
+Author: Mauro <mauro.valerioti.18@gmail.com>
+Date:   Mon Sep 19 17:43:56 2022 -0300
+
+    se subio index.html con el enlace afigma
+
+[33mcommit 9b5dcb95ebe9df1dd2aeb44654feb2ff4fd49724[m
+Author: Mauro <mauro.valerioti.18@gmail.com>
+Date:   Mon Sep 5 21:42:20 2022 -0300
+
+    Create README.md
