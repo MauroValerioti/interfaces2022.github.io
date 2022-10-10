@@ -69,6 +69,21 @@ img{
 
 }
 
+a:hover {
+    color: greenyellow;
+  }
+
+nav a{
+    color:white;
+    text-decoration: none;
+
+}
+
+.cont-tarjeta a:hover{
+    color: greenyellow;
+    text-decoration: none;
+}
+
 .barraBuscador{
     max-width: 50%;
     height: 6vh;
