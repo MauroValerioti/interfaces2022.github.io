@@ -325,10 +325,6 @@ footer{
     border-radius: 10px; /*bordes redondos*/
 }
 
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
->>>>>>> 852dcac77eaec581d22d07c2bafe6f8189cfc933
 /*--------------SECCION HISTORIA CSS--------------------*/
 .seccionHistoria{
     background-color: #050231;
@@ -380,3 +376,32 @@ footer{
     width: 60%;
     margin: 1%;
 }
+
+/*--------------SECCION LANZAMIENTO CSS--------------------*/
+
+.titulo-lanzamiento{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: black;
+    font-size: 300%;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #24ff03;
+}
+
+.fondo-imagen-lanzamiento{
+    background-image:url("./Imagenes/PuppyPlaytime6.jpg");
+}
+
+.imagen1-lanzamiento{
+    margin-bottom: 4%;
+}
+
+
+
+
+
+
+
