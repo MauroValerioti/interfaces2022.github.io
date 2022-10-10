@@ -1,6 +1,8 @@
+
 /*-----------------------------BODY CSS--------------------->*/
 body{
     background-color:#9747FF;
+    background-image: url("./Imagenes/PuppyPlaytime6.jpg");
 }
 
 /*-----------------------------HEADER CSS--------------------->*/
@@ -323,6 +325,7 @@ footer{
     border-radius: 10px; /*bordes redondos*/
 }
 
+<<<<<<< Updated upstream
 /*--------------SECCION HISTORIA CSS--------------------*/
 .seccionHistoria{
     background-color: #050231;
@@ -372,5 +375,5 @@ footer{
 .comentario-image{
     padding: 1%;
     width: 60%;
-    
+    margin: 1%;
 }
