@@ -159,12 +159,11 @@ h3{
 }
 
 .cont-imagen-tarjeta{
-    width: 100%;
+    height: auto;
     height: 40%;
 }
 
 .cont-titulo-tarjeta{
-    
     font-size: 3.5vh;
     display: flex;
     justify-content: center;
@@ -185,7 +184,7 @@ h3{
 }
 
 .cont-botones-tarjeta{
-    height: 6vh;
+    height: auto;
     width: 20vw;
     display: flex;
     align-items: center;
@@ -267,6 +266,7 @@ h3{
 
 /*-----------------------------FOOTER CSS--------------------->*/
 footer{
+    margin-top: 1vh;
     background-color: #050231;
 }
 
@@ -605,10 +605,7 @@ div .compra p{
         height: 8vh;
     }
 
-    .cont-tarjeta{
-        
-    }
-    
+
     .carrusel{
         height: 15%;
     }
@@ -635,5 +632,9 @@ div .compra p{
         
         height: 30%;
         width: 40%;
+    }
+
+    .cont-tarjeta{
+        height: 35vh;
     }
 }
